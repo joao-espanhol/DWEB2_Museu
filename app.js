@@ -1,0 +1,1 @@
+let msg = require('./modulo1');

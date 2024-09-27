@@ -1,0 +1,25 @@
+# Ignore arquivos de sistema
+*.log
+*.DS_Store
+
+# Ignore arquivos de Python
+__pycache__/
+*.py[cod]
+
+# Ignore ambientes virtuais
+venv/
+env/
+
+# Ignore arquivos de configuração local
+.env
+.vscode/
+
+# Ignore arquivos de compilação
+*.o
+*.class
+
+# Ignore arquivos estáticos gerados
+staticfiles/
+
+# Ignore os arquivos de configuração do Node.js
+node_modules/
